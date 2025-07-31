@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/traffic_project/Images/model_pics/images/Train
+val: /content/drive/MyDrive/traffic_project/Images/model_pics/images/Val
+
+nc: 4
+names: ['car', 'ambulance', 'bus', 'fire_truck']
