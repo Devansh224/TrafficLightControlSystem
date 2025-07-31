@@ -1,1 +1,1 @@
-# Yolov Based Traffic Light Control System
+# YOLO Based Traffic Light Control System
